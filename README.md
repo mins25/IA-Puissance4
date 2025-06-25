@@ -20,12 +20,3 @@ Un jeu de **Puissance 4** (grille 6x12) en Python où vous affrontez une **IA st
 
 - `puissance4_ia.py` : Script principal contenant tout le jeu.
 - `README.md` : Documentation du projet.
-
----
-
-## 🔧 Dépendances
-
-Installe les bibliothèques nécessaires avec :
-
-```bash
-pip install colorama
